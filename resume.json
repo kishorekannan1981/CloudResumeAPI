@@ -1,0 +1,107 @@
+[
+    {
+      "id": {
+        "S": "1"
+      },
+      "Name": {
+        "S": "Kishore Kannan"
+      },
+      "Phone": {
+        "S": "9940161461"
+      },
+      "email": {
+        "S": "kishore_kannan@hotmail.com"
+      },
+      "Contact": {
+        "L": [
+          {
+            "M": {
+              "LinkedIn": {
+                "S": "linkedin.com/in/kishore-kannan-5b123434"
+              },
+              "GitHub": {
+                "S": "https://github.com/kishorekannan1981/CloudResumeAPI"
+              },
+              "Medium": {
+                "S": ""
+              }
+            }
+          }
+        ]
+      },
+      "Experience": {
+        "S": " 15 yrs in Digital Workspace Platform, working in different VDI landscape that include assessment, design and delivering solutions "
+      },
+      "Certifications": {
+        "L": [
+          {
+            "M": {
+              "name": {
+                "S": "Azure Solution Architect Expert"
+              },
+              "date": {
+                "S": "2022-04-09"
+              }
+            }
+          },
+          {
+            "M": {
+              "name": {
+                "S": "AWS Solution Architect Associate"
+              },
+              "date": {
+                "S": "2020-05-20"
+              }
+            }
+          },
+          {
+            "M": {
+              "name": {
+                "S": "Google Profession Cloud Architect"
+              },
+              "date": {
+                "S": "2024-07-01"
+              }
+            }
+          }
+        ]
+      },
+      "Project": {
+        "L": [
+          {
+            "S": "Build & Deploy Greenfield AVD VDI platform with 450+ users"
+          },
+          {
+            "S": "Migrating On-Prem legacy Citrix farm to Citrix Cloud for two of the leading UK based Gas energy company"
+          },
+          {
+            "S": "EDGE Transformation migrating traditional desktops to Citrix based VDI solutions for one of the leading bank in Ireland"
+          }
+        ]
+      },
+      "Education": {
+        "L": [
+          {
+            "S": "Diploma in Electronics & Communication Eng (DECE)"
+          },
+          {
+            "S": "B.Sc Information Technology"
+          }
+        ]
+      },
+      "Tech Stack": {
+        "L": [
+          {
+            "SS": [
+              "Citrix",
+              "Netscaler",
+              "Azure Virtual Desktop",
+              "Azure",
+              "GCP"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+  
